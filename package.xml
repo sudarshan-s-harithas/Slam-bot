@@ -4,8 +4,8 @@
 	<version>2.0.0</version>
 
 	<description>
-		<p>URDF Description package for ardop_description</p>
-		<p>This package contains configuration data, 3D models and launch files for ARDOP 2.0 robot</p>
+		<p>URDF Description package for slam_bot</p>
+		<p>This package contains configuration data, 3D models and launch files for slam_bot robot</p>
 	</description>
 
 	<author>Sudarshan S Harithas</author>
