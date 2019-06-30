@@ -1,5 +1,6 @@
 # Slam-bot
 
+Slam Bot is a basic Differential Drive robot. On which Gmapping SLAM(Simeltaneous Localization and Mapping) has been implemented. 
 
 The commands to run the Slam Bot simulation in ROS 
 
